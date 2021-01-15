@@ -32,7 +32,7 @@ public class MainActivity extends AppCompatActivity {
     //Déclaration des champs
     TextView mDate,mCity,mTemp,mDescription;
     ImageView imgIcon;
-    String maVille="Montreal";
+    String maVille="Toronto";
 
     @Override
     protected void onCreate(Bundle savedInstanceState)
