@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="Description">Description</string>
+    <string name="Temperature">20</string>
+    <string name="City">City</string>
+    <string name="Date">Date</string>
+    <string name="Descriptionimg">Description image</string>
+    <string name="desc">descript</string>
+    <string name="degrees">O</string>
+</resources>
